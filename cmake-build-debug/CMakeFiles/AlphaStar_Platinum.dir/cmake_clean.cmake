@@ -1,7 +1,8 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/AlphaStar_Platinum.dir/src/day12_FinalExam/P2_BarnExpansion.cpp.o"
+  "CMakeFiles/AlphaStar_Platinum.dir/src/day12_FinalExam/P2_BarnExpansion.cpp.obj"
   "AlphaStar_Platinum.pdb"
   "AlphaStar_Platinum.exe"
+  "AlphaStar_Platinum.exe.manifest"
   "libAlphaStar_Platinum.dll.a"
 )
 
