@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g  -Wl,--enable-auto-import CMakeFiles/AlphaStar_Platinum.dir/src/day12_FinalExam/P2_BarnExpansion.cpp.o  -o AlphaStar_Platinum.exe -Wl,--out-implib,libAlphaStar_Platinum.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
