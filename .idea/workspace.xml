@@ -11,115 +11,7 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9bedd397-c64a-429d-8958-8251cf759c9d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/summer/day10_AdvancedGreedyMethods/P1_GangsOfIstanbullCowstantinople .cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/summer/day10_AdvancedGreedyMethods/P2_CoveringTheCorral.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/summer/day10_AdvancedGreedyMethods/P3_Bottleneck.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/summer/day10_AdvancedGreedyMethods/P4_FenceRepair.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/summer/day10_AdvancedGreedyMethods/P5_BarnAllocation.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/summer/day10_MiscellaneousProblems/P1_TheMilkQueue.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/summer/day11_AdvancedDynamicProgramming/P1_TheFewestCoins.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/summer/day11_AdvancedDynamicProgramming/P3_PalindromicPaths.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/summer/day11_AdvancedDynamicProgramming/P4_MowingTheLawn.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/summer/day11_AdvancedDynamicProgramming/P5_BuyingFeed.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/summer/day12_AdvancedDynamicProgramming/P2_RouteDesigning.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/summer/day12_AdvancedDynamicProgramming/P4_TelephoneWire.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/summer/day12_AdvancedDynamicProgramming/P5_TheTriangle.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/summer/day12_AdvancedDynamicProgramming/P6_NoChange.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/summer/day13_AdvancedDynamicProgramming/P2_CowDecathlon.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/summer/day13_AdvancedDynamicProgramming/P3_TheBaricBovine.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/summer/day13_AdvancedDynamicProgramming/P4_GuardMark.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/summer/day1_DynamicProgramming/P1_TakingTurns.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/summer/day1_DynamicProgramming/P2_CowTravelling.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/summer/day1_DynamicProgramming/P3_CheapestPalindrome.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/summer/day1_DynamicProgramming/P4_BalancedCowBreeds.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/summer/day2_ComputationalGeometry/P1_Symmetry.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/summer/day2_ComputationalGeometry/P2_RopingTheField.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/summer/day2_DynamicProgramming/P1_BuyingHay.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/summer/day2_DynamicProgramming/P2_BessiesWeightProblem.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/summer/day2_DynamicProgramming/P4_AdditionChain.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/summer/day3_ComputationalGeometry/P1_Overplanting.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/summer/day3_ComputationalGeometry/P2_LineOfSight.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/summer/day3_ComputationalGeometry/P4_CowRectangles.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/summer/day4_AdvancedDataStructures/P1_GameOfLines.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/summer/day4_AdvancedDataStructures/P2_EmptyStalls.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/summer/day4_AdvancedDataStructures/P3_CityHorizon.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/summer/day4_AdvancedDataStructures/P5_BestCowLine.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/summer/day4_AdvancedDataStructures/P6_Censoring.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/summer/day4_AdvancedDataStructures/P7_HiddenPassword.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/summer/day5_AdvancedSearchingTechniques/P1_Distance.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/summer/day5_AdvancedSearchingTechniques/P3_RunningAwayFromTheBarn.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/summer/day5_AdvancedSearchingTechniques/P4_AboveTheMedian.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/summer/day5_AdvancedSearchingTechniques/P6_SlowingDown.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/summer/day6_AdvancedSearchingTechniques/P1_BalancedLineup.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/summer/day6_AdvancedSearchingTechniques/P2_LightSwitching.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/summer/day6_AdvancedSearchingTechniques/P3_TheLazyCow.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/summer/day6_AdvancedSearchingTechniques/P4_Marathon.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/summer/day7_AdvancedGraphAlgorithms/P1_RankingTheCows.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/summer/day7_AdvancedGraphAlgorithms/P2_GreatCowGathering.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/summer/day7_AdvancedGraphAlgorithms/P3_MeetingPlace.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/summer/day7_AdvancedGraphAlgorithms/P5_CowCalisthenics.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/summer/day7_AdvancedGraphAlgorithms/P6_GrassPlanting.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/summer/day8_AdvancedGraphAlgorithms/P1_SkiCourseRating.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/summer/day8_AdvancedGraphAlgorithms/P2_CheeringUpTheCows.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/summer/day8_AdvancedGraphAlgorithms/P3_Relocation.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/summer/day8_AdvancedGraphAlgorithms/P4_BigMacsAroundTheWorld.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/summer/day8_AdvancedGraphAlgorithms/P5_Roadblock.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/summer/day8_AdvancedGraphAlgorithms/P7_RedundantPaths.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/summer/day9_AdvancedGraphAlgorithms/P1_TheCowProm.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/summer/day9_AdvancedGraphAlgorithms/P2_GrassCownoisseur .cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/summer/day9_AdvancedGraphAlgorithms/P3_Candy.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/summer/day9_AdvancedGraphAlgorithms/P4_RidingTheFences.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/summer/day9_AdvancedGraphAlgorithms/P5_TravellingSalesmanProblem.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/summer/day9_AdvancedGraphAlgorithms/P6_IslandTravels.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/AlphaStar_Platinum.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/AlphaStar_Platinum.cbp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/AlphaStar_Platinum.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/AlphaStar_Platinum.dir/DependInfo.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/AlphaStar_Platinum.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/AlphaStar_Platinum.dir/build.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/AlphaStar_Platinum.dir/cmake_clean.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/AlphaStar_Platinum.dir/cmake_clean.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/AlphaStar_Platinum.dir/objects1.rsp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/AlphaStar_Platinum.dir/objects1.rsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/AlphaStar_Platinum.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/AlphaStar_Platinum.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/progress.marks" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/progress.marks" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Makefile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day10_AdvancedSearchingTechniquesIII/P1_BovineEmbroidery.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/fall/day10_AdvancedSearchingTechniquesIII/P1_BovineEmbroidery.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day10_AdvancedSearchingTechniquesIII/P3_ACoinGame.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/fall/day10_AdvancedSearchingTechniquesIII/P3_ACoinGame.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day11_AdvancedGreedyMethods/P1_FenceRepair.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/fall/day11_AdvancedGreedyMethods/P1_FenceRepair.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day11_AdvancedGreedyMethods/P2_BarnAllocation.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/fall/day11_AdvancedGreedyMethods/P2_BarnAllocation.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day11_AdvancedGreedyMethods/P3_GangsOfIstanbullCowstantinople.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/fall/day11_AdvancedGreedyMethods/P3_GangsOfIstanbullCowstantinople.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day12_FinalExam/P1_BuildingANewBarn.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/fall/day12_FinalExam/P1_BuildingANewBarn.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day12_FinalExam/P2_BarnExpansion.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/fall/day12_FinalExam/P2_BarnExpansion.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day1_DynamicProgramming/P1_Stringsobits.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/fall/day1_DynamicProgramming/P1_Stringsobits.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day1_DynamicProgramming/P2_Running.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/fall/day1_DynamicProgramming/P2_Running.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day1_DynamicProgramming/P3_TreasureChest.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/fall/day1_DynamicProgramming/P3_TreasureChest.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day1_DynamicProgramming/P4_Palindrome.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/fall/day1_DynamicProgramming/P4_Palindrome.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day1_DynamicProgramming/P5_BaleShare.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/fall/day1_DynamicProgramming/P5_BaleShare.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day2_DynamicProgramming/P1_SkiLift.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/fall/day2_DynamicProgramming/P1_SkiLift.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day2_DynamicProgramming/P2_LittleShopOfFlowers.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/fall/day2_DynamicProgramming/P2_LittleShopOfFlowers.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day2_DynamicProgramming/P3_VideoGameTroubles.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/fall/day2_DynamicProgramming/P3_VideoGameTroubles.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day2_DynamicProgramming/P4_SkiLessons.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/fall/day2_DynamicProgramming/P4_SkiLessons.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day2_DynamicProgramming/P5_BackwardDigitSums.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/fall/day2_DynamicProgramming/P5_BackwardDigitSums.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day3_ComputationalGeometryI/P1_CowRescue.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/fall/day3_ComputationalGeometryI/P1_CowRescue.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day3_ComputationalGeometryI/P5_Flowerpot.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/fall/day3_ComputationalGeometryI/P5_Flowerpot.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day3_ComputationalGeometryI/P6_CorralTheCows.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/fall/day3_ComputationalGeometryI/P6_CorralTheCows.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day4_ComputationalGeometryII/P1_ClaustrophobicCowsII.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/fall/day4_ComputationalGeometryII/P1_ClaustrophobicCowsII.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day4_ComputationalGeometryII/P2_BuildingTheMoat.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/fall/day4_ComputationalGeometryII/P2_BuildingTheMoat.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day4_ComputationalGeometryII/P3_LonesomePartnersII.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/fall/day4_ComputationalGeometryII/P3_LonesomePartnersII.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day5_AdvancedDataStructures/P1_MilkPatterns.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/fall/day5_AdvancedDataStructures/P1_MilkPatterns.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day5_AdvancedDataStructures/P2_GourmetGrazers.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/fall/day5_AdvancedDataStructures/P2_GourmetGrazers.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day5_AdvancedDataStructures/P3_Photo.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/fall/day5_AdvancedDataStructures/P3_Photo.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day5_AdvancedDataStructures/P3_Photo2.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/fall/day5_AdvancedDataStructures/P3_Photo2.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day6_ReviewExam/P1_HomeOnTheRange.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/fall/day6_ReviewExam/P1_HomeOnTheRange.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day6_ReviewExam/P2_ShapingRegions.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/fall/day6_ReviewExam/P2_ShapingRegions.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day6_ReviewExam/P2_ShapingRegions_LEGIT.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/fall/day6_ReviewExam/P2_ShapingRegions_LEGIT.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day6_ReviewExam/P3_SodaMachine.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/fall/day6_ReviewExam/P3_SodaMachine.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day7_AdvancedStringProcessing/P1_CowPatterns.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/fall/day7_AdvancedStringProcessing/P1_CowPatterns.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day8_AdvancedSearchingTechniquesI/P1_GenericCowProtests.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/fall/day8_AdvancedSearchingTechniquesI/P1_GenericCowProtests.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day9_AdvancedSearchingTechniquesII/P2_LightSwitching.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/fall/day9_AdvancedSearchingTechniquesII/P2_LightSwitching.cpp" afterDir="false" />
-    </list>
+    <list default="true" id="9bedd397-c64a-429d-8958-8251cf759c9d" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -287,7 +179,7 @@
       <workItem from="1564905408091" duration="395000" />
       <workItem from="1564905890949" duration="88000" />
       <workItem from="1565078206617" duration="102000" />
-      <workItem from="1565930694009" duration="2277000" />
+      <workItem from="1565930694009" duration="2574000" />
     </task>
     <servers />
   </component>
