@@ -68,7 +68,7 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../AlphaStar Gold" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -179,7 +179,7 @@
       <workItem from="1564905408091" duration="395000" />
       <workItem from="1564905890949" duration="88000" />
       <workItem from="1565078206617" duration="102000" />
-      <workItem from="1565930694009" duration="2574000" />
+      <workItem from="1565930694009" duration="2690000" />
     </task>
     <servers />
   </component>
