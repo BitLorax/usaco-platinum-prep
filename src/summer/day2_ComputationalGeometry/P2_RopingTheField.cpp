@@ -35,7 +35,6 @@ double getDist(Coord pt, Coord a, Coord b) {
     long long j = b.x - a.x;
     long long k = i * a.x + j * a.y;
     return abs(double(i * pt.x + j * pt.y - k) / sqrt(i * i + j * j));
-
 }
 int calcDP(int i, int j) {
     if (abs(i - j) == 1 || abs(i - j) == cornerCount) return 0;

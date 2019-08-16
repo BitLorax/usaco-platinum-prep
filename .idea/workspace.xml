@@ -11,7 +11,10 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9bedd397-c64a-429d-8958-8251cf759c9d" name="Default Changelist" comment="" />
+    <list default="true" id="9bedd397-c64a-429d-8958-8251cf759c9d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/summer/day2_ComputationalGeometry/P2_RopingTheField.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/summer/day2_ComputationalGeometry/P2_RopingTheField.cpp" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,40 +27,6 @@
     <option name="formatViaClangd" value="false" />
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>MAX_BALESIZE</find>
-      <find>DP</find>
-      <find>closeLeft</find>
-      <find>include</find>
-      <find>[i]</find>
-      <find>prefixSums</find>
-      <find>int</find>
-      <find>1000000009</find>
-      <find>cin</find>
-      <find>map</find>
-      <find>MAX_COINCNT</find>
-      <find>hash</find>
-      <find>euqal</find>
-      <find>tree</find>
-      <find>1</find>
-      <find>12</find>
-      <find>byX</find>
-      <find>N</find>
-    </findStrings>
-    <replaceStrings>
-      <replace>MAX_DIVISION</replace>
-      <replace>exclude</replace>
-      <replace>closest</replace>
-      <replace>[curr]</replace>
-      <replace>fenwick</replace>
-      <replace>long</replace>
-      <replace>MOD</replace>
-      <replace>MAX_COINCNT + 1</replace>
-      <replace>segTree</replace>
-      <replace>barnCount</replace>
-    </replaceStrings>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -180,6 +149,7 @@
       <workItem from="1564905890949" duration="88000" />
       <workItem from="1565078206617" duration="102000" />
       <workItem from="1565930694009" duration="2690000" />
+      <workItem from="1565933736491" duration="574000" />
     </task>
     <servers />
   </component>
