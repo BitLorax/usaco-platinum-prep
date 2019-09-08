@@ -13,7 +13,6 @@
   <component name="ChangeListManager">
     <list default="true" id="9bedd397-c64a-429d-8958-8251cf759c9d" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/summer/day2_ComputationalGeometry/P2_RopingTheField.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/summer/day2_ComputationalGeometry/P2_RopingTheField.cpp" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -149,7 +148,8 @@
       <workItem from="1564905890949" duration="88000" />
       <workItem from="1565078206617" duration="102000" />
       <workItem from="1565930694009" duration="2690000" />
-      <workItem from="1565933736491" duration="574000" />
+      <workItem from="1565933736491" duration="1300000" />
+      <workItem from="1566011566318" duration="235000" />
     </task>
     <servers />
   </component>
